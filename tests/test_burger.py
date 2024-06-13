@@ -1,5 +1,6 @@
 from unittest.mock import Mock
-from burger import Burger
+
+from praktikum.burger import Burger
 
 
 class TestBurger:

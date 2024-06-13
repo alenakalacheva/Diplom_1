@@ -1,7 +1,7 @@
 import pytest
-from bun import Bun
-from ingredient import Ingredient
-from database import Database
+from praktikum.bun import Bun
+from praktikum.database import Database
+from praktikum.ingredient import Ingredient
 
 
 @pytest.fixture
